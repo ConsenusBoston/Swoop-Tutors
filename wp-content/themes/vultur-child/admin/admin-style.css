@@ -1,0 +1,29 @@
+/* Admin style only for amelia-customer */
+#amelia-app-backend .am-logo {
+    background: url('https://swooptutors.com/wp-content/uploads/2020/08/swoop_web_logo_3-260x68.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#amelia-app-backend .am-logo img {
+	opacity: 0;
+}
+li#menu-dashboard {
+	display: none;
+}
+li#wp-admin-bar-courses-page {
+	display: none;
+}
+li#wp-admin-bar-wp-logo {
+	display: none;
+}
+.wp-submenu-wrap a[href="admin.php?page=wpamelia-events"] {
+	display: none !important;
+}
+#toplevel_page_amelia .wp-menu-name {
+	font-size: 0;
+}
+#toplevel_page_amelia .wp-menu-name:after {
+	content: 'Control Panel';
+	font-size: 14px;
+}

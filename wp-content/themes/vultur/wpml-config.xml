@@ -1,0 +1,103 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">course</custom-type>
+        <custom-type translate="1">portfolio</custom-type>
+     </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">course-category</taxonomy>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+    </taxonomies>  
+	<custom-fields> 
+	    <custom-field action="copy">breadcrumbs_switch</custom-field>
+        <custom-field action="copy">choices</custom-field>      
+        <custom-field action="copy">comment_switch</custom-field>
+        <custom-field action="copy">breadcrumbs_page_image</custom-field>
+        <custom-field action="copy">breadcrumbs_page_color</custom-field>
+        <custom-field action="copy">video_url</custom-field>
+        <custom-field action="copy">blog_single_sidebar</custom-field>
+        <custom-field action="copy">breadcrumbs_switch</custom-field>     
+        <custom-field action="copy">breadcrumbs_post_image</custom-field>
+        <custom-field action="copy">breadcrumbs_post_color</custom-field>
+        <custom-field action="copy">facebook</custom-field>
+        <custom-field action="copy">twitter</custom-field>
+        <custom-field action="copy">googleplus</custom-field>
+        <custom-field action="copy">linkedin</custom-field>   
+        <custom-field action="copy">icon_add</custom-field>  
+        <custom-field action="copy">portfolio_style</custom-field>
+        <custom-field action="copy">image_sub_title</custom-field>
+        <custom-field action="copy">video_title</custom-field>
+        <custom-field action="copy">video_sub_title</custom-field>       
+        <custom-field action="copy">video_image</custom-field>
+        <custom-field action="copy">city</custom-field>
+        <custom-field action="copy">time_prode</custom-field>
+        <custom-field action="copy">year</custom-field>
+        <custom-field action="copy">testing</custom-field>      
+    </custom-fields>  
+    <admin-texts>
+     <key name="fw_theme_settings_options:vultur">
+	      <key name="error_404_heading"/> 
+		  <key name="error_404_desc"/>
+	      <key name="heading"/>
+	      <key name="heading_sub"/>
+	      <key name="about_image"/>
+	      <key name="about_desc"/>
+	      <key name="resume_download"/>
+	      <key name="hire_me"/>
+	      <key name="profiles_slider"/>
+	      <key name="profiles_title"/>
+	      <key name="profiles_sub_title"/>
+	      <key name="profiles_desc"/>
+	      <key name="course_heading"/>
+	      <key name="course_sub_heading"/>
+	      <key name="course_number"/>
+	      <key name="breadcrumbs_switch"/>
+	      <key name="breadcrumbs_image"/>
+	      <key name="breadcrumbs_color"/>
+	      <key name="map_apikey"/>
+	      <key name="contact_us_heading"/>
+	      <key name="contact_us_sub_heading"/>
+	      <key name="form_heading"/>
+	      <key name="form_shortcode"/>
+	      <key name="googlemap_ifram"/>
+	      <key name="contactus_detail"/>
+	      <key name="banner_image"/>
+	      <key name="text_image"/>
+	      <key name="us_text"/>
+	      <key name="custom_menu"/>
+	      <key name="footer_copyrigth"/>
+	      <key name="singlepage_switch"/>
+	      <key name="logo_setting"/>
+	      <key name="loader_switch"/>
+	      <key name="loader_image"/>
+	      <key name="portfolio_heading"/>
+	      <key name="portfolio_sub_heading"/>
+	      <key name="portfolio_show_number"/>
+	      <key name="portfolio_load_number"/>
+	      <key name="services_heading"/>
+	      <key name="services_sub_heading"/>
+	      <key name="services_about_images"/>
+	      <key name="our_services"/>
+	      <key name="award_bg_image"/>
+	      <key name="our_award"/>
+	      <key name="skills_heading"/>
+	      <key name="skills_sub_heading"/>
+	      <key name="our_skills"/>
+	      <key name="clients_heading"/>
+	      <key name="clients_sub_heading"/>
+	      <key name="our_clients"/>
+	      <key name="blog_sidebar"/>
+	      <key name="archive_sidebar"/>
+	      <key name="search_sidebar"/>
+	      <key name="facebook"/>
+	      <key name="instagram"/>
+	      <key name="linkedin"/>
+	      <key name="twitter"/>
+	      <key name="pinterest"/>
+	      <key name="behance"/>
+	      <key name="dribbble"/>
+	      <key name="vultur_color"/>
+	      <key name="theme_color"/>
+	      <key name="vultur_theme_color"/>
+     </key> 
+    </admin-texts> 
+</wpml-config>

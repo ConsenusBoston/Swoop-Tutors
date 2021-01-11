@@ -1,0 +1,68 @@
+{
+  "options": {
+    "merge-default-rules": false,
+    "formatter": "html",
+    "output-file": "linters/sass-lint.html",
+    "max-warnings": 50
+  },
+  "files": {
+    "include": "src/scss/*/*.s+(a|c)ss",
+    "ignore": [
+      "src/scss/vendor/**/*.*"
+    ]
+  },
+  "rules": {
+		"no-trailing-whitespace": 2,
+    "extends-before-mixins": 2,
+    "extends-before-declarations": 2,
+    "placeholder-in-extend": 2,
+    "no-warn": 1,
+    "no-debug": 1,
+    "no-important": 2,
+		"space-after-colon": [
+			2,
+			 {
+				 "include": "true"
+			 }
+		],
+		"empty-line-between-blocks": [
+			2,
+			 {
+				 "include": "true",
+				 "allow-single-line-rulesets": "true"
+			 }
+		],
+		"final-newline": [
+			1,
+			{
+				"include": "true"
+			}
+		],
+    "hex-notation": [
+      2,
+      {
+        "style": "lowercase"
+      }
+    ],
+    "indentation": [
+      2,
+      {
+        "size": 2
+      }
+    ],
+		"quotes": [
+			2,
+			{
+				"style": "double"
+			}
+
+		],
+    "property-sort-order": [
+      2,
+      {
+        "order": "concentric",
+        "ignore-custom-properties": true
+      }
+    ]
+  }
+}

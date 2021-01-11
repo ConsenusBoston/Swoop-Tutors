@@ -1,0 +1,26 @@
+//	@ Author: Consensus Interactive
+//	@ Author URI: ConsensusInteractive.com
+// @ Description: Specific styles for the homepage
+
+.page-id-3601 {
+    .why-us-container {
+        .row > .col-md-5 {
+            display: none;
+        }
+        .row .col-md-7:last-child {
+                width: 100% !important;
+                max-width: 100%;
+                flex: auto;
+        }
+    }
+}
+
+.error404 {
+    .vultur_banner_title {
+        h1,
+        .vultur_breadcrumb span,
+        .vultur_breadcrumb a {
+            color: $white !important;
+        }
+    }
+}

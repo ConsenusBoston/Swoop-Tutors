@@ -1,0 +1,891 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vultur\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-17 08:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: 404.php:45
+msgid "404"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-404-settings.php:5
+msgid "404 Setting"
+msgstr ""
+
+#: inc/template-tags.php:16
+msgid "<"
+msgstr ""
+
+#: inc/template-tags.php:17
+msgid ">"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:56
+msgid "Add"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:51
+msgid "Add Contact Address"
+msgstr ""
+
+#: functions.php:128 functions.php:137
+msgid "Add Footer Sidebar widgets here."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:31
+msgid "Add Form Shortcode"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:37
+msgid "Add Google Map Ifram"
+msgstr ""
+
+#: functions.php:119
+msgid "Add Shop Sidebar widgets here. If WooCommerce is activated."
+msgstr ""
+
+#: functions.php:110
+msgid "Add Sidebar widgets here."
+msgstr ""
+
+#: functions.php:146
+msgid "Add Widgets for Single LMS."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:64
+msgid "Address Information"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:89
+msgid "Adress Link"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:85
+msgid "Adress Text"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:34
+msgid "Archive Sidebar Position"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:26
+msgid "Author Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:27
+msgid "Author Image Upload  image Here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:9
+msgid "Author name"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Awaiting product image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:72
+msgid "Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:24
+msgid "Black and White (Container)"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:8
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:5
+msgid "Blog Single Page Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:49
+msgid "Bottom Copyright"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:13
+msgid "Brand Name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:61 
+#: framework-customizations/theme/options/posts/product.php:67 
+#: framework-customizations/theme/options/posts/course.php:90
+msgid "Breadcrumbs Background  Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:62 
+#: framework-customizations/theme/options/posts/product.php:68 
+#: framework-customizations/theme/options/posts/portfolio.php:94 
+#: framework-customizations/theme/options/posts/course.php:91
+msgid "Breadcrumbs Background  Upload  image Here."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:21
+#:  framework-customizations/theme/options/posts/portfolio.php:93 
+#: framework-customizations/theme/options/posts/page.php:76
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:22
+#:  
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:27
+#:  framework-customizations/theme/options/posts/page.php:77
+msgid "Breadcrumbs Background Upload  image Here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:69 
+#: framework-customizations/theme/options/posts/post.php:70 
+#: framework-customizations/theme/options/posts/product.php:75 
+#: framework-customizations/theme/options/posts/product.php:76 
+#: framework-customizations/theme/options/posts/page.php:84 
+#: framework-customizations/theme/options/posts/page.php:85 
+#: framework-customizations/theme/options/posts/course.php:98 
+#: framework-customizations/theme/options/posts/course.php:99
+msgid "Breadcrumbs Bg Color Option"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:10
+msgid "Breadcrumbs Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:5
+msgid "Breadcrumbs Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:15
+msgid "Button Link"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:11
+msgid "Button Text (Free Trial)"
+msgstr ""
+
+#: comments.php:75
+msgid "Comment..."
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "Comments (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:19
+msgid "Company Content"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:31
+msgid "Contact Adress"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:37
+msgid "Contact Email"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:25
+msgid "Contact Headline"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:5
+msgid "Contact Section Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:43
+msgid "Contact Tel"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:52
+msgid "Contact Us Detail"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:25
+msgid "Contact Us Form Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:13
+msgid "Contact Us Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:19
+msgid "Contact Us Sub Heading"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:4
+msgid "Course Page Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:21
+msgid "Course Price"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:15
+msgid "Course Time"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:8
+msgid "Custom Menu Setting"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:31 inc/template-tags.php:100
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:97
+msgid "Email Link"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:93
+msgid "Email Text"
+msgstr ""
+
+#: learnpress/single-course.php:71
+msgid "Enroll this course"
+msgstr ""
+
+#: learnpress/single-course.php:121
+msgid "ENROLLED"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:35
+msgid "Enter Behance Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:14
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:20
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:26
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:32
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:38
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:44
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:50
+msgid "Enter Copyright Text Here."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:40
+msgid "Enter Dribbble Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:10
+msgid "Enter Facebook Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:10
+msgid ""
+"Enter Google Map Api Key https://developers.google."
+"com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:15
+msgid "Enter Instagram Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:20
+msgid "Enter Linkedin Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:18
+#:  
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:23
+msgid "Enter logo width size in pixels. Ex: 200"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:30
+msgid "Enter Pinterest Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:29
+msgid "Enter svg code"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:25
+msgid "Enter Twitter Url"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:10
+msgid "Enter Video Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:8
+msgid "Foot Logo Image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:5
+msgid "Footer Setting"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:5
+msgid "General Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:32
+msgid "Header Dark"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:23
+msgid "Header Style Three (Full Width)"
+msgstr ""
+
+#: functions.php:51
+msgid "Header Top Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:33
+msgid "Header White"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:21
+msgid "header_black_white"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-404-settings.php:8
+msgid "Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:71 
+#: framework-customizations/theme/options/posts/product.php:77 
+#: framework-customizations/theme/options/posts/page.php:86 
+#: framework-customizations/theme/options/posts/course.php:100
+msgid "Help tip"
+msgstr ""
+
+#. URI of the theme
+msgid "http://drozd.at/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themeioan"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:19
+msgid "Image Sub Title"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: learnpress/single-course.php:99
+msgid "LECTURES"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:81
+msgid "Link for Tel"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:32
+msgid "Link to Single Page"
+msgstr ""
+
+#: functions.php:144
+msgid "LMS Single Sidebar Bottom"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-shop-setting.php:26
+msgid "Load Number Of Products"
+msgstr ""
+
+#: header.php:42
+msgid "loader"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:36
+msgid "Loader Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:47
+msgid "Loader Image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:11
+msgid "Logo Image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:28
+msgid "Logo Svg Code"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:44 
+#: framework-customizations/theme/options/posts/post.php:57 
+#: framework-customizations/theme/options/posts/product.php:50 
+#: framework-customizations/theme/options/posts/product.php:63 
+#: framework-customizations/theme/options/posts/portfolio.php:72 
+#: framework-customizations/theme/options/posts/portfolio.php:85 
+#: framework-customizations/theme/options/posts/page.php:14 
+#: framework-customizations/theme/options/posts/page.php:55 
+#: framework-customizations/theme/options/posts/page.php:68 
+#: framework-customizations/theme/options/posts/course.php:73 
+#: framework-customizations/theme/options/posts/course.php:86
+msgid "No"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:39
+#:  
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:43
+#:  
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:56
+#:  
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:69
+#:  
+#: framework-customizations/theme/options/customizer/vultur-woocommerce-setting.php:13
+#:  
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:13
+#:  
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:36
+msgid "Off"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:43
+#:  
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:47
+#:  
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:60
+#:  
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:73
+#:  
+#: framework-customizations/theme/options/customizer/vultur-woocommerce-setting.php:17
+#:  
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:17
+#:  
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:40
+msgid "On"
+msgstr ""
+
+#. 1: title.
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:43 
+#: template-parts/vultur-blog-temp.php:103 template-parts/content.php:50 
+#: template-parts/content-search.php:51
+msgid "Page"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:105
+msgid "Page One Link"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:101
+msgid "Page One Text"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:5
+msgid "Page Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:121
+msgid "Page Three Link"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:117
+msgid "Page Three Text"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:113
+msgid "Page Two Link"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:109
+msgid "Page Two Text"
+msgstr ""
+
+#: template-parts/content-page.php:16 template-parts/content-single.php:39 
+#: template-parts/vultur-blog-temp.php:99 template-parts/content.php:46 
+#: template-parts/content-search.php:47
+msgid "Pages:"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:10
+msgid "Portfolio select Layout Style"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:9
+msgid "Portfolio select Style"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:5
+msgid "Portfolio Single Page Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:35
+msgid "Portfolio Video Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:36
+msgid "Portfolio Video Image Upload  image Here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:5
+msgid "Product Single Page Setting"
+msgstr ""
+
+#: learnpress/single-course.php:110
+msgid "QUESTIONS"
+msgstr ""
+
+#: template-parts/vultur-blog-temp.php:110 template-parts/content.php:57 
+#: template-parts/content-search.php:58
+msgid "Read more"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/single-product/related.php:23
+msgid "Related products"
+msgstr ""
+
+#: 404.php:52
+msgid "Return Back"
+msgstr ""
+
+#: learnpress/single-course.php:134
+msgid "REVIEWS"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:40
+msgid "right"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:28 
+#: woocommerce/loop/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:66
+msgid "Search Box Header On/Off"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:61
+msgid "Search Sidebar Position"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:20
+msgid "Select Header Style"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:11
+#:  
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:37
+#:  
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:64
+#:  framework-customizations/theme/options/posts/post.php:12 
+#: framework-customizations/theme/options/posts/product.php:18 
+#: framework-customizations/theme/options/posts/portfolio.php:43 
+#: framework-customizations/theme/options/posts/page.php:26 
+#: framework-customizations/theme/options/posts/course.php:41
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:11
+msgid "Select theme Background color."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:47
+msgid "Select theme color."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:29
+msgid "Select Top Header Style"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:90
+msgid ""
+"Select WooCommerce sidebar alignment. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-breadcrumbs-setting.php:26
+msgid "Shop Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-shop-setting.php:8
+msgid "Shop Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-woocommerce-setting.php:27
+msgid "Shop Icon"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-woocommerce-setting.php:21
+msgid "Shop Page Url"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-shop-setting.php:5
+msgid "Shop Section Setting"
+msgstr ""
+
+#: functions.php:117
+msgid "Shop Sidebar (WooCommerce)"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-shop-setting.php:14
+msgid "Shop Sub Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:37 
+#: framework-customizations/theme/options/posts/product.php:43 
+#: framework-customizations/theme/options/posts/portfolio.php:69 
+#: framework-customizations/theme/options/posts/page.php:52 
+#: framework-customizations/theme/options/posts/course.php:66
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:50 
+#: framework-customizations/theme/options/posts/product.php:56 
+#: framework-customizations/theme/options/posts/portfolio.php:82 
+#: framework-customizations/theme/options/posts/page.php:65 
+#: framework-customizations/theme/options/posts/course.php:79
+msgid "Show Comment"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-shop-setting.php:20
+msgid "Show Number Of Products"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:11
+msgid "Show WooCommerce Sidebar"
+msgstr ""
+
+#. %d: total results
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:9 
+#: framework-customizations/theme/options/posts/product.php:15 
+#: framework-customizations/theme/options/posts/portfolio.php:40 
+#: framework-customizations/theme/options/posts/page.php:23 
+#: framework-customizations/theme/options/posts/course.php:38
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:5
+msgid "Sidebar Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/course.php:35
+msgid "Single Page for the Course Sample /contact/"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-socialmenu-setting.php:5
+msgid "Social Menu Setting"
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:50
+msgid "Sorry, This Page Is Not Available"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:13
+msgid "style 1"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:14
+msgid "style 2"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:5
+msgid "Style Switcher"
+msgstr ""
+
+#: comments.php:77
+msgid "Submit Comment"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:77
+msgid "Tel"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:8
+msgid "Theme Background Color "
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:34
+msgid "Theme Color"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:44
+msgid "Theme Color "
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-switcher-setting.php:33
+msgid "Theme color Enable/Disable"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeIoan"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:60
+#:  
+#: framework-customizations/theme/options/customizer/vultur-404-settings.php:14
+msgid "Title"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:40
+msgid "Top Header Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:53
+msgid "Top Header Social Icon Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-custom-menu-setting.php:30
+msgid "top_header_dark"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:12
+#:  
+#: framework-customizations/theme/options/customizer/vultur-general-settings.php:48
+#:  
+#: framework-customizations/theme/options/customizer/vultur-footer-settings.php:9
+msgid "Upload logo image Here."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-contactus-setting.php:73
+msgid "Upload Profile images Here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:27
+msgid "Video Sub Title"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:23
+msgid "Video Title"
+msgstr ""
+
+#. Name of the theme
+msgid "Vultur"
+msgstr ""
+
+#: comments.php:71
+msgid "Website URL"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"We’ve used modern technologies and best practices that’s why you can easily "
+"work with our product. This Template is well organized and very easy to "
+"customize, built with Bootstrap 4. Responsive compatible with Desktop, "
+"Laptop, Tablet, mobile or any device."
+msgstr ""
+
+#. 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/theme/options/customizer/vultur-woocommerce-setting.php:10
+msgid "WooCommerce Mini Cart Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-woocommerce-setting.php:5
+msgid "WooCommerce Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/vultur-sidebar-setting.php:87
+msgid "WooCommerce Sidebar Position"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:40 
+#: framework-customizations/theme/options/posts/post.php:53 
+#: framework-customizations/theme/options/posts/product.php:46 
+#: framework-customizations/theme/options/posts/product.php:59 
+#: framework-customizations/theme/options/posts/portfolio.php:76 
+#: framework-customizations/theme/options/posts/portfolio.php:89 
+#: framework-customizations/theme/options/posts/page.php:18 
+#: framework-customizations/theme/options/posts/page.php:59 
+#: framework-customizations/theme/options/posts/page.php:72 
+#: framework-customizations/theme/options/posts/course.php:69 
+#: framework-customizations/theme/options/posts/course.php:82
+msgid "Yes"
+msgstr ""
+
+#: template-parts/vultur-comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:70
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:68
+msgid "Your Name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/portfolio.php:31
+msgid "Youtube Video Url"
+msgstr ""

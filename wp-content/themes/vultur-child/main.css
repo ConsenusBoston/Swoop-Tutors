@@ -1509,6 +1509,12 @@
 .header_black_white .navbar-default .navbar-nav a:hover {
   color: #f47547 !important; }
 
+.tutor-app-link {
+  display: block; }
+  @media (min-width: 767px) {
+    .tutor-app-link {
+      display: none; } }
+
 #footer a[href^="mailto:"]:hover {
   color: #20ad95; }
 

@@ -5,3 +5,11 @@
 .header_black_white .navbar-default .navbar-nav a:hover {
     color: #f47547 !important;
 }
+
+.tutor-app-link {
+    display: block;
+
+    @include breakpoint(sm) {
+        display: none;
+    }
+}

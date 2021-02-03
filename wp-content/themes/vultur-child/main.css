@@ -1772,6 +1772,31 @@ body {
 .single-tutors .paypal-button span {
   color: #ffffff !important; }
 
+body.blog .vultur_banner,
+.archive .vultur_banner,
+.tag .vultur_banner,
+.page-template-vultur-blog-temp .vultur_banner,
+.single-post .vultur_banner {
+  background-image: url("images/hero-1024x115.png") !important;
+  padding: 40px 0 40px !important; }
+
+body.blog .course-viewer li:nth-child(2),
+.archive .course-viewer li:nth-child(2),
+.tag .course-viewer li:nth-child(2),
+.page-template-vultur-blog-temp .course-viewer li:nth-child(2),
+.single-post .course-viewer li:nth-child(2) {
+  display: none; }
+
+body.blog .vultur_breadcrumb,
+.archive .vultur_breadcrumb,
+.tag .vultur_breadcrumb,
+.page-template-vultur-blog-temp .vultur_breadcrumb,
+.single-post .vultur_breadcrumb {
+  display: none; }
+
+body.blog .post-read-more {
+  margin-top: 15px; }
+
 .page-template-vultur-pagetutor .vultur_banner {
   padding: 40px 0 40px !important; }
   .page-template-vultur-pagetutor .vultur_banner h1 {

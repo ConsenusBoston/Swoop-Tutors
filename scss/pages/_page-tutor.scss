@@ -383,6 +383,30 @@ body {
 }
 
 // .single-tutors
+body.blog,
+.archive,
+.tag,
+.page-template-vultur-blog-temp,
+.single-post {
+  .vultur_banner {
+    background-image: url("images/hero-1024x115.png") !important;
+    padding: 40px 0 40px !important;
+  }
+
+  .course-viewer {
+    li:nth-child(2) {
+      display: none;
+    }
+  }
+
+  .vultur_breadcrumb {display: none;}
+}// custom breadcrumb image
+
+body.blog {
+  .post-read-more {
+    margin-top: 15px;
+  }
+}
 
 // Page template
 .page-template-vultur-pagetutor {
@@ -1333,4 +1357,6 @@ body:not(.tip-button-clicked) #text-11,
       }
     }
   }
-}// .am-custom-fields
+}
+
+// .am-custom-fields

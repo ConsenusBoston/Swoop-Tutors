@@ -1772,6 +1772,10 @@ body {
 .single-tutors .paypal-button span {
   color: #ffffff !important; }
 
+body.home #blog .course-viewer li:nth-child(2),
+body.home #blog .course-viewer li:nth-child(3) {
+  display: none; }
+
 body.blog .vultur_banner,
 .archive .vultur_banner,
 .tag .vultur_banner,

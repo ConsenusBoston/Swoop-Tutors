@@ -37,7 +37,7 @@ wp-includes/*
 wp-content/themes/twentytwenty/*
 !wp-content/themes/vultur*
 !wp-content/themes/vultur/*
-
+!wp-content/themes/vultur-child**
 
 # Compiled source #
 ###################
